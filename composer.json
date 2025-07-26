@@ -1,0 +1,6 @@
+{
+  "require": {
+    "devrabie/php-telegram-bot-plus": "^1.0",
+    "intervention/image": "^3.11"
+  }
+}
